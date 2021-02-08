@@ -1,0 +1,6 @@
+Anisovka Mikhailovka 5 Piterka 10
+Mikhailovka Moscow 1
+Moscow Volgograd 21 Saratov 6
+Piterka Mikhailovka 20 Saratov 7
+Saratov Volgograd 9
+Volgograd Anisovka 4

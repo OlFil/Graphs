@@ -1,0 +1,4 @@
+Moscow Saratov 0 Mikhailovka 0
+Saratov Moscow 0 Piterka 0
+Piterka Saratov 0 Mikhailovka 0
+Mikhailovka Moscow 0 Piterka 0

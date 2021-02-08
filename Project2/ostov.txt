@@ -1,0 +1,9 @@
+Moscow Saratov 300 Mikhailovka 456
+Saratov Moscow 300 Piterka 180 Anisovka 124
+Piterka Saratov 180 Mikhailovka 45 Vladimir 566 Anisovka 6
+Mikhailovka Moscow 456 Piterka 45
+Anisovka Piterka 6 Saratov 124 Vladimir 149 Novgorod 479 Kostroma 333
+Vladimir Anisovka 149 Piterka 566 Novgorod 443 Kostroma 223
+Kostroma Anisovka 333 Vladimir 223 Agoi 297
+Novgorod Anisovka 479 Vladimir 443 Agoi 250
+Agoi Kostroma 297 Novgorod 250

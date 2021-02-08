@@ -1,0 +1,7 @@
+Anisovka Bobruisk 2 Geledzhik 1
+Bobruisk Geledzhik 3
+Dubai Anisovka 4 Moscow 5
+Geledzhik Dubai 2 Irkutsk 2 Moscow 8 Saratov 4
+Irkutsk Bobruisk -10 Saratov 6
+Moscow
+Saratov Moscow 1

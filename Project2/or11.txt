@@ -1,0 +1,6 @@
+Moscow Piterka 1 Saratov 2
+Saratov Volgograd 3
+Piterka Mikhailovka 4
+Mikhailovka Moscow 5 Saratov 6
+Peter Mikhailovka 7 Moscow 10
+Volgograd Peter 8 Mikhailovka 9
